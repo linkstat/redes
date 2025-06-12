@@ -1,0 +1,57 @@
+99.99.99.1 gw-cba
+111.111.111.1 gw-cba
+172.16.10.1 gw-cba
+172.16.11.1 gw-cba
+172.16.12.1 gw-cba
+172.16.13.1 gw-cba
+172.16.14.1 gw-cba
+172.16.15.1 gw-cba
+172.16.10.2 sw-core-cba
+172.16.10.3 sw-gerencia1
+172.16.10.4 sw-marketing1
+172.16.10.5 sw-ventas1
+172.16.10.6 sw-compras1
+172.16.10.7 sw-ops1
+172.16.10.8 sw-ops2
+172.16.10.30 dhcp-cba
+
+99.99.99.2 gw-rsf
+222.222.222.1 gw-rsf
+172.16.20.1 gw-rsf
+172.16.21.1 gw-rsf
+172.16.22.1 gw-rsf
+172.16.20.2 sw-core-rsf
+172.16.20.3 sw-logistica1
+172.16.20.4 sw-legales1
+172.16.20.30 dhcp-rsf
+
+99.99.99.3 gw-sde
+172.16.30.1 gw-sde
+172.16.31.1 gw-sde
+172.16.30.2 sw-core-sde
+172.16.30.30 dhcp-sde
+
+111.111.111.2 gw-mdz
+172.16.40.1 gw-mdz
+172.16.41.1 gw-mdz
+172.16.40.2 sw-core-mdz
+172.16.40.30 dhcp-mdz
+
+222.222.222.2 gw-prn
+172.16.50.1 gw-prn
+172.16.51.1 gw-prn
+172.16.50.2 sw-core-prn
+172.16.50.30 dhcp-prn
+
+99.99.99.100 sw-core
+99.99.99.99 dns-core
+
+172.16.10.21 ftp-cba
+172.16.20.21 ftp-rsf
+172.16.10.20 web-cba
+
+255.255.255.224
+
+www.todosport.com.ar
+
+
